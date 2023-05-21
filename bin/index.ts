@@ -24,6 +24,7 @@ let errorAssets: any[] = [];
 
 const SUPPORTED_MIME = [
   // IMAGES
+  'image/x-panasonic-rw2',
   'image/heif',
   'image/heic',
   'image/jpeg',
